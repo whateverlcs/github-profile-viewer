@@ -29,6 +29,12 @@
 - **Vite** - Build tool rápida e otimizada
 - **React Router** - Navegação entre páginas
 
+## ⚙️ Pré-Requisitos
+
+Antes de rodar a aplicação, você deve:
+
+- Criar o arquivo `.env.local` e adicionar `VITE_API_URL=https://api.github.com`.
+
 ## 🤵 Autor
 
 Lucas Batistão
