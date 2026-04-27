@@ -28,6 +28,7 @@
 - **TypeScript** - Tipagem estática para melhor desenvolvimento
 - **Vite** - Build tool rápida e otimizada
 - **React Router** - Navegação entre páginas
+- **Axios** - Cliente HTTP para consumo de APIs
 
 ## ⚙️ Pré-Requisitos
 
